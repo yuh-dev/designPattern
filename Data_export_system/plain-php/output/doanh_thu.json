@@ -1,0 +1,33 @@
+{
+    "title": "Báo cáo doanh thu Q3",
+    "data": [
+        {
+            "Mã": 1,
+            "Khách hàng": "Nguyễn Văn An",
+            "Thành phố": "Hà Nội",
+            "Doanh thu (VNĐ)": 15500000,
+            "Đã thanh toán": true
+        },
+        {
+            "Mã": 2,
+            "Khách hàng": "Trần Thị Bình",
+            "Thành phố": "Đà Nẵng",
+            "Doanh thu (VNĐ)": 8200000,
+            "Đã thanh toán": false
+        },
+        {
+            "Mã": 3,
+            "Khách hàng": "Lê Hoàng Cường",
+            "Thành phố": "TP.HCM",
+            "Doanh thu (VNĐ)": 23750000,
+            "Đã thanh toán": true
+        },
+        {
+            "Mã": 4,
+            "Khách hàng": "Phạm \"Dũng\"",
+            "Thành phố": "Huế",
+            "Doanh thu (VNĐ)": 4100000,
+            "Đã thanh toán": true
+        }
+    ]
+}

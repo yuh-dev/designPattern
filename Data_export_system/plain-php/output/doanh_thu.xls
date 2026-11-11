@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<Styles><Style ss:ID="h"><Font ss:Bold="1"/></Style></Styles>
+<Worksheet ss:Name="Báo cáo doanh thu Q3"><Table>
+<Row><Cell ss:StyleID="h"><Data ss:Type="String">Mã</Data></Cell><Cell ss:StyleID="h"><Data ss:Type="String">Khách hàng</Data></Cell><Cell ss:StyleID="h"><Data ss:Type="String">Thành phố</Data></Cell><Cell ss:StyleID="h"><Data ss:Type="String">Doanh thu (VNĐ)</Data></Cell><Cell ss:StyleID="h"><Data ss:Type="String">Đã thanh toán</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">1</Data></Cell><Cell><Data ss:Type="String">Nguyễn Văn An</Data></Cell><Cell><Data ss:Type="String">Hà Nội</Data></Cell><Cell><Data ss:Type="Number">15500000</Data></Cell><Cell><Data ss:Type="String">true</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">2</Data></Cell><Cell><Data ss:Type="String">Trần Thị Bình</Data></Cell><Cell><Data ss:Type="String">Đà Nẵng</Data></Cell><Cell><Data ss:Type="Number">8200000</Data></Cell><Cell><Data ss:Type="String">false</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">3</Data></Cell><Cell><Data ss:Type="String">Lê Hoàng Cường</Data></Cell><Cell><Data ss:Type="String">TP.HCM</Data></Cell><Cell><Data ss:Type="Number">23750000</Data></Cell><Cell><Data ss:Type="String">true</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">4</Data></Cell><Cell><Data ss:Type="String">Phạm &quot;Dũng&quot;</Data></Cell><Cell><Data ss:Type="String">Huế</Data></Cell><Cell><Data ss:Type="Number">4100000</Data></Cell><Cell><Data ss:Type="String">true</Data></Cell></Row>
+</Table></Worksheet>
+</Workbook>
